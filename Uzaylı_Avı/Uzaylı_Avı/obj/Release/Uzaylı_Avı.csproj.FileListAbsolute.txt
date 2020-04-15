@@ -1,0 +1,15 @@
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\bin\Release\Uzaylı_Avı.exe
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\bin\Release\Uzaylı_Avı.pdb
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\ResolveAssemblyReference.cache
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.AracSec.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.AracSec2.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.menuyeYonlendir.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.Menü.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.Oynayış.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.kk.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.Properties.Resources.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.Skor.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.İki_Oyuncu.resources
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.csproj.GenerateResource.Cache
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.exe
+F:\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Release\Uzaylı_Avı.pdb

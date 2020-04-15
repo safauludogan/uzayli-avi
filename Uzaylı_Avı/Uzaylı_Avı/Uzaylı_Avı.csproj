@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D11762DA-174F-49F9-AF7A-8F3AB9042689}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uzaylı_Avı</RootNamespace>
+    <AssemblyName>Uzaylı_Avı</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AracSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracSec.Designer.cs">
+      <DependentUpon>AracSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracSec2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracSec2.Designer.cs">
+      <DependentUpon>AracSec2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yapay Zekaya Karşı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yapay Zekaya Karşı.Designer.cs">
+      <DependentUpon>Yapay Zekaya Karşı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Açılış Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Açılış Ekranı.Designer.cs">
+      <DependentUpon>Açılış Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menü.Designer.cs">
+      <DependentUpon>Menü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oynayış.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oynayış.Designer.cs">
+      <DependentUpon>Oynayış.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bilgisayara Karşı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilgisayara Karşı.Designer.cs">
+      <DependentUpon>Bilgisayara Karşı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AracSec.resx">
+      <DependentUpon>AracSec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracSec2.resx">
+      <DependentUpon>AracSec2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yapay Zekaya Karşı.resx">
+      <DependentUpon>Yapay Zekaya Karşı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Açılış Ekranı.resx">
+      <DependentUpon>Açılış Ekranı.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menü.resx">
+      <DependentUpon>Menü.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oynayış.resx">
+      <DependentUpon>Oynayış.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilgisayara Karşı.resx">
+      <DependentUpon>Bilgisayara Karşı.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Skor.resx">
+      <DependentUpon>Skor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İki Oyuncu.resx">
+      <DependentUpon>İki Oyuncu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Skor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Skor.Designer.cs">
+      <DependentUpon>Skor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İki Oyuncu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İki Oyuncu.Designer.cs">
+      <DependentUpon>İki Oyuncu.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arka Plan 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Karşılama Ekranı.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canavar 63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylu9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uzaylı14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzaylı18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzay Aracı 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzay Aracı 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uzay Aracı 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemi51.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patlama.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roketTers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gemiTers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sınır.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karşılama mesajı.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kalkan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gemiTers4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gemiTers31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gemiTers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GemiTers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Canavar 8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

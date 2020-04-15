@@ -1,0 +1,101 @@
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Backup\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\dell\Desktop\Projelerim\Game\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\tos\Desktop\Yedek\safa proje\2015\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csprojResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Projelerim\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csprojResolveAssemblyReference.cache
+C:\Users\tos\Desktop\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Bilgisayara_Karşı.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\ResolveAssemblyReference.cache
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Bilgisayara_Karşı.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+D:\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.pdb
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.AracSec2.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Bilgisayara_Karşı.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.menuyeYonlendir.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Menü.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Oynayış.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.kk.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Properties.Resources.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.Skor.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.İki_Oyuncu.resources
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csprojResolveAssemblyReference.cache
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.csproj.GenerateResource.Cache
+D:\Masaüstü\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+D:\Masaüstü\Safa-Projelerim\C# Herşey\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\bin\Debug\Uzaylı_Avı.exe.config
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.exe
+C:\Users\SeFa\Desktop\Safa-Projelerim\C# Herşey\PROJELER\c# Oyunum\Uzaylı_Avı\Uzaylı_Avı\obj\Debug\Uzaylı_Avı.pdb
