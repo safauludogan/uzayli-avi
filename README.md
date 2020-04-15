@@ -1,5 +1,5 @@
 # uzayli-avi
-Lise zamanında yapmış olduğum bu projede 3 mod bulunmaktadır.
+Lise zamanında yapmış olduğum bu oyunda 3 mod bulunmaktadır.
 
 1.Mod oyun içerisinde yukarıdan düşen uzaylıları vurarak kendi duvarınızı savurabilirsiniz.
 2.Mod ise iki oyunculu moddur.
